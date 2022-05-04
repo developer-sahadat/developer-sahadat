@@ -7,7 +7,7 @@ I am Junior Web Developer
 
 - 🔭 I’m currently working on **Mern Stact Development**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrap, Tailwind, React Js, Firebase Authentication, Node Js, MongoDB, Express Js etc **
 
 - 👯 I’m looking to collaborate on **Open Source**
 

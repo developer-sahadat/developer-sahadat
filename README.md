@@ -51,9 +51,6 @@ I am Junior Web Developer
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-sahadat&show_icons=true&locale=en&layout=compact" alt="Md Shahadat Hossain" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-sahadatb&show_icons=true&locale=en" alt="Md Shahadat Hossain" /></p>
-
-
 [facebook]: https://https://www.facebook.com/DeveloperShahadatHossain/
 [twitter]: https://twitter.com/wd_shahadat
 [instagram]: https://www.instagram.com/developershahadat/

@@ -56,10 +56,10 @@ I am Junior Web Developer
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
-[website]: https://TechHelpBD.com
+
 [facebook]: https://facebook.com/MahbubDev
 [twitter]: https://twitter.com/mahbubdev
 [youtube]: https://youtube.com/TechHelpBangladesh
 [instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
+[linkedin]: https://www.instagram.com/developershahadat/
+

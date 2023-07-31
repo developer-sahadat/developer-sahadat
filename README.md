@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/web-shahadat-hossain/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/DeveloperShahadatHossain/">
+  <a href="https://www.facebook.com/web.shahadat.hossain/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://twitter.com/wd_shahadat">
@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my spare time, I try to find new technologies and practice them.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shahadat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/developer-sahadat/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shahadat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/web-shahadat-hossain/)
 
 ---
 
